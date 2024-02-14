@@ -5,7 +5,7 @@ description: Tool for common data-quality-related trimming, filtering, and maski
 ---
 
 The BBDuk module produces summary statistics from the stdout logging information
-from the BBDuk tool of the [BBTools](http://jgi.doe.gov/data-and-tools/bbtools/bb-tools-user-guide/) suite of tools.
+from the BBDuk tool of the [BBTools](https://jgi.doe.gov/data-and-tools/software-tools/bbtools/) suite of tools.
 
 "Duk" stands for Decontamination Using Kmers. BBDuk was developed to combine
 most common data-quality-related trimming, filtering, and masking operations
